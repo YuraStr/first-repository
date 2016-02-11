@@ -4,11 +4,6 @@
 #include <stdio.h>
 #include <errno.h>
 
-/*
-Git example
-111
-*/
-
 int main(int argc, char * argv[])
 {
 	int pid, status;
